@@ -1,6 +1,6 @@
 <template>
   <onDisplay>
-    <strong class="display-2">Space Trip</strong><br>
+    <strong class="display-2">Discovery Tour</strong><br>
     <input class="ml-1" type="text" placeholder="Year " v-model="YearID" />
     <input class="ml-1" type="text" placeholder="Month " v-model="MonthID" />
     <input class="ml-1" type="text" placeholder="Day " v-model="DayID" />

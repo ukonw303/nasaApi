@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img class="img-circle" src="https://i.pinimg.com/originals/9c/b2/86/9cb2863a009b49fcc03161032e9e5baf.png" width="150px" height="150px">
+    <img class="img-circle" src="https://f.ptcdn.info/065/069/000/q92a41vcc9oFh7k4LvB-o.jpg" width="300px" height="150px">
     <br><Picture />
   </div>
 </template>
@@ -28,10 +28,11 @@ export default {
 .display-2{
   font-family: 'Baloo Tammudu 2', cursive;
   font-size: 40px;
-  color: #e1bee7;
+  color: #afafaf;
 }
 
 body {
-  background-image: url(https://i2.wp.com/windowscustomization.com/wp-content/uploads/2019/07/Skyrim-NIght-Stars.gif?fit=768%2C432&quality=80&strip=all&ssl=1);
+  background-image: url(https://d1csarkz8obe9u.cloudfront.net/posterpreviews/galaxy-background-design-template-e3a821c519b9d90c66c0b3a7b98cc874_screen.jpg?ts=1589084799);
+  background-size:  100%;
 }
 </style>
